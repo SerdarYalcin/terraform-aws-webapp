@@ -1,6 +1,8 @@
-# Terraform_Deployment_Steps
+# terraform-aws-webapp
 
-- Install Terraform
-- Add access_key and secret_access_key to provider.tf file.
+- Install Terraform and ddd access_key and secret_access_key to provider.tf file.
 - Run "terraform init"
+- Run "terraform fmt"
 - Run "terraform apply"
+
+You may need to edit the subnets IP block and the AMI ID of the region according to your architecture
