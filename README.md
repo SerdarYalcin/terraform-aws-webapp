@@ -1,6 +1,6 @@
 # terraform-aws-webapp
 
-- Install Terraform and ddd access_key and secret_access_key to provider.tf file.
+- Install Terraform and add access_key and secret_access_key to provider.tf file.
 - Run "terraform init"
 - Run "terraform fmt"
 - Run "terraform apply"
